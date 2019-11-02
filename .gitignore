@@ -1,0 +1,13 @@
+/build/
+/bundle/
+/.idea
+/.gradle/
+/gradle/
+/gradlew
+/gradlew.*
+
+/*.phpintel
+
+/package.hub.yml
+/package-lock.php.yml
+/vendor/*
