@@ -1,4 +1,4 @@
-#### English / [Русский](https://github.com/GIGNIGHT/jphp-yandex-ext/api-docs/README.ru.md)
+#### English / [Русский](https://github.com/GIGNIGHT/jphp-yandex-ext/blob/master/api-docs/README.ru.md)
 
 # Yandex Bundle
 
