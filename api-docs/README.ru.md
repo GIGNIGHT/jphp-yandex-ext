@@ -1,3 +1,5 @@
+#### Русский / [English](https://github.com/GIGNIGHT/jphp-yandex-ext/blob/master/api-docs/README.md)
+
 # Yandex Bundle
 
 > version 1.1
