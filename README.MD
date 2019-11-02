@@ -11,6 +11,16 @@
 [Rewrite] All code
 ```
 
+## Documentation
+
+[api-docs](https://github.com/GIGNIGHT/jphp-yandex-ext/api-docs/README.md)
+
+## Requirements
+
+```
+Compile requirement: JDK 8
+```
+
 ## Install package via jppm
 
 ```bash
