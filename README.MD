@@ -1,3 +1,7 @@
+# Yandex Bundle
+
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
+
 ## Changelog
 
 ```
@@ -13,7 +17,7 @@
 
 ## Documentation
 
-[api-docs](https://github.com/GIGNIGHT/jphp-yandex-ext/api-docs/README.md)
+[api-docs](https://github.com/GIGNIGHT/jphp-yandex-ext/blob/master/api-docs/README.md)
 
 ## Requirements
 
