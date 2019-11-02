@@ -28,7 +28,7 @@ Compile requirement: JDK 8
 ## Install package via jppm
 
 ```bash
-jppm add windows@git+https://github.com/GIGNIGHT/jphp-yandex-ext
+jppm add yandex@git+https://github.com/GIGNIGHT/jphp-yandex-ext
 ```
 
 ## Build bundle
